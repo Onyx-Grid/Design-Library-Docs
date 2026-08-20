@@ -1,0 +1,1 @@
+.o-separator{flex-shrink:0;border:0;margin:0;background-color:var(--color-border)}.o-separator--horizontal{width:100%;height:1px;margin-block:var(--_spacing, 0)}.o-separator--vertical{align-self:stretch;width:1px;min-height:1em;margin-inline:var(--_spacing, 0)}

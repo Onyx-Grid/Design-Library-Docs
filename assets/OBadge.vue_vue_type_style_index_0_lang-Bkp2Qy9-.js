@@ -1,0 +1,1 @@
+import{d as t,c as n,k as l,n as r,j as d,o as c}from"./iframe-CmLobRcQ.js";const m=t({__name:"OBadge",props:{tone:{default:"neutral"},variant:{default:"subtle"},size:{default:"md"}},setup(a){const e=a,s=d(()=>["o-badge",`o-badge--${e.size}`,`o-badge--${e.variant}`,`o-badge--${e.tone}`]);return(o,p)=>(c(),n("span",{class:r(s.value)},[l(o.$slots,"default")],2))}});export{m as _};

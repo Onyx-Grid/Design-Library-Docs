@@ -1,0 +1,1 @@
+.o-drag-handle{display:inline-flex;align-items:center;justify-content:center;color:var(--color-text-subtle);cursor:grab}.o-drag-handle:active{cursor:grabbing}.o-drag-handle--disabled{opacity:.4;cursor:not-allowed}

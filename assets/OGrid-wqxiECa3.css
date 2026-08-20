@@ -1,0 +1,1 @@
+.o-grid{display:grid;gap:var(--_gap, 0);grid-template-columns:repeat(var(--_cols, 1),minmax(0,1fr))}.o-grid--responsive{grid-template-columns:repeat(auto-fit,minmax(min(var(--_min),100%),1fr))}.o-grid--align-start{align-items:start}.o-grid--align-center{align-items:center}.o-grid--align-end{align-items:end}.o-grid--align-stretch{align-items:stretch}
